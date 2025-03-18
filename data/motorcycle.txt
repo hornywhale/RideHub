@@ -1,0 +1,2 @@
+Yamaha R1,ABC123,1000,Sport,0
+Ducati Panigale,XYZ789,1200,Superbike,0
